@@ -22,8 +22,6 @@
 
 ![GoobGub's Profile Views](https://komarev.com/ghpvc/?username=GoobGub&color=green)
 ![GoobGub's Profile Likes](https://img.shields.io/github/stars/GoobGub?affiliations=OWNER%2CCOLLABORATOR&color=green)
-![GoobGub's Profile Downloads](https://img.shields.io/github/downloads/GoobGub/GoobGub/total?color=green)
-
 ---
 
 ## <span style="color:green">My Projects</span> 💻
