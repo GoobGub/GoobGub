@@ -35,9 +35,3 @@ Here are some of my projects:
 
 
 ---
-
-## <span style="color:green">Contact Me</span> 📬
-
-<span style="color:green">You can reach me via email at goobgub@email.com.</span>
-
-<span style="color:green">You can also follow me on Twitter at [@GoobGub](https://twitter.com/GoobGub).</span>
