@@ -28,8 +28,7 @@
 
 Here are some of my projects:
 
-- [Project 1](https://github.com/GoobGub/Tabaco-V2): Description of project 1.
-
+- [Project 1](https://github.com/GoobGub/Tabaco-V2): 🟢Tabaco V2🟢
 
 
 ---
