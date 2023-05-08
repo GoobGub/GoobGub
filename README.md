@@ -1,4 +1,4 @@
-# <span style="color:green">Her their im GoobGub</span> 🐍👨‍💻
+# <span style="color:green">Hey their im GoobGub</span> 🐍👨‍💻
 
 <span style="color:green">Welcome to my GitHub profile! I am GoobGub, a green text enthusiast who is currently exploring the world of Python and other scripting languages.</span>
 
