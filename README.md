@@ -1,16 +1,3 @@
-# <span style="color:green">Hey their im GoobGub</span> 🐍👨‍💻
-
-<span style="color:green">Welcome to my GitHub profile! I am GoobGub, who is currently exploring the world of Python and other scripting languages.</span>
-
----
-
-## <span style="color:green">About Me</span> 💁‍♂️
-
-<span style="color:green">I am a beginner in the world of programming and I am particularly interested in Python and other scripting languages.</span>
-
-<span style="color:green">When I am not programming, you can find me playing video games and watching TV shows.</span>
-
-<span style="color:green">Feel free to take a look at my repositories and leave a comment or feedback. I am always looking to learn and improve.</span>
 
 ---
 
